@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169765244214",
+    "project_id": "notifikasi-project-8e5d5",
+    "storage_bucket": "notifikasi-project-8e5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169765244214:android:c6950bd294403ce0aef797",
+        "android_client_info": {
+          "package_name": "id.my.mydictionary.deaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCfAD5cIW289kdyfoyLC26iZfcJVo7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
